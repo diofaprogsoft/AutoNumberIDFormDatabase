@@ -1,0 +1,12 @@
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\bin\Debug\SampleDatabase.mdf
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\bin\Debug\SampleDatabase_log.ldf
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\bin\Debug\AutoNumber.exe
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\bin\Debug\AutoNumber.pdb
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\bin\Debug\AutoNumber.xml
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.FormAutoNumber.resources
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.Resources.resources
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.vbproj.GenerateResource.cache
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.vbproj.CoreCompileInputs.cache
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.exe
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.xml
+C:\Users\diofa\source\repos\AutoNumber\AutoNumber\obj\Debug\AutoNumber.pdb
